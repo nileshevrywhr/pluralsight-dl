@@ -1,0 +1,5 @@
+PS_ID_URL = "https://app.pluralsight.com/id/"
+PS_LIB_URL = "https://app.pluralsight.com/library/"
+USERNAME = ""
+PASSWORD = ""
+COURSE_TITLE = ""
